@@ -16,6 +16,7 @@ Welcome to my portfolio repository! This project showcases my web development sk
 ## Overview
 
 This portfolio is a simple and elegant website created using HTML, CSS, JavaScript, and SCSS. It is designed to highlight my projects, skills, and achievements.
+![image](https://github.com/user-attachments/assets/ec6857fb-f6ad-4b1a-af66-78a9f8e0be73)
 
 ## Features
 
